@@ -1,0 +1,126 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainlayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tvHindi"
+            android:layout_margin="17dp"
+            android:layout_width="170dp"
+            android:layout_height="150dp"
+            android:background="#9CC59C"
+            android:gravity="center"
+            android:text="@string/languageHindi"
+            android:textColor="#ffffff"
+            android:textStyle="bold"
+
+            />
+
+
+        <TextView
+            android:id="@+id/tvEnglish"
+            android:layout_margin="17dp"
+            android:layout_width="170dp"
+            android:layout_height="150dp"
+            android:layout_toRightOf="@+id/tvHindi"
+            android:background="#FF8759"
+            android:gravity="center"
+            android:text="@string/languageEnglish"
+            android:textColor="#ffffff"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tvGujrati"
+            android:layout_margin="18dp"
+            android:layout_width="170dp"
+            android:layout_height="150dp"
+            android:background="#9CC59C"
+            android:gravity="center"
+            android:text="@string/languageGujarati"
+            android:textColor="#ffffff"
+            android:textStyle="bold"
+
+            />
+
+
+        <TextView
+            android:id="@+id/tvPunjabi"
+            android:layout_margin="18dp"
+            android:layout_width="170dp"
+            android:layout_height="150dp"
+            android:layout_toRightOf="@+id/tvGujrati"
+            android:background="#FF8759"
+            android:gravity="center"
+            android:text="@string/languagePunjabi"
+            android:textColor="#ffffff"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tvTelugu"
+            android:layout_margin="18dp"
+            android:layout_width="170dp"
+            android:layout_height="150dp"
+            android:background="#9CC59C"
+            android:gravity="center"
+            android:text="@string/languageTelugu"
+            android:textColor="#ffffff"
+            android:textStyle="bold"
+
+            />
+
+
+        <TextView
+            android:id="@+id/tvMalayalam"
+            android:layout_margin="18dp"
+            android:layout_width="170dp"
+            android:layout_height="150dp"
+            android:layout_toRightOf="@+id/tvTelugu"
+            android:background="#FF8759"
+            android:gravity="center"
+            android:text="@string/languageMalayalam"
+            android:textColor="#ffffff"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+
+
+    <TextView
+        android:id="@+id/tvNext"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginTop="15dp"
+        android:layout_gravity="bottom"
+        android:background="#8BC7D1"
+        android:gravity="center"
+        android:text="@string/buttonNext"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+
+
+</LinearLayout>

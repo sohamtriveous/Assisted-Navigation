@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Internet Saathi</string>
+    <string name="languageHindi">हिन्दी</string>
+    <string name="languageEnglish">English</string>
+    <string name="languageGujarati">ગુજરાતી</string>
+    <string name="languagePunjabi">ਪੰਜਾਬੀ</string>
+    <string name="languageTelugu">తెలుగు</string>
+    <string name="languageMalayalam">മലയാളം</string>
+    <string name="buttonNext">NEXT</string>
+    <string name="textTermsAndConditions">By Signing up you agree to our Terms and Conditions.</string>
+    <string name="buttonProceed">PROCEED</string>
+    <string name="textBanking">BANKING</string>
+    <string name="textBusiness">BUSINESS SKILLS</string>
+</resources>

@@ -1,0 +1,122 @@
+{
+  "en": {
+    "sample": {
+      "pulse": true,
+      "journey": [
+        {
+          "text": "Click here to Select English Language",
+          "audioUrl": "https://d6cp9b00-a.akamaihd.net/downloads/ringtones/files/mp3/f-english-49357.mp3",
+          "activity": "MainActivity",
+          "view": "tvEnglish"
+        },
+        {
+          "text": "Click here to proceed for Next Activity",
+          "audioUrl": "https://d6cp9b00-a.akamaihd.net/downloads/ringtones/files/mp3/f-proceed-49359.mp3",
+          "activity": "MainActivity",
+          "view": "tvNext"
+        },
+        {
+          "text": "Click here to accept Terms and Conditions",
+          "audioUrl": "https://ypvnxx00-a.akamaihd.net/downloads/ringtones/files/mp3/f-tc-49360.mp3",
+          "activity": "ActivityTC",
+          "view": "tvTermsConditions"
+        },
+        {
+          "text": "Click here to proceed for Next Activity",
+          "audioUrl": "https://d6cp9b00-a.akamaihd.net/downloads/ringtones/files/mp3/f-proceed-49359.mp3",
+          "activity": "ActivityTC",
+          "view": "tvProceed"
+        },
+        {
+          "text": "Click here to select Business Skills",
+          "audioUrl": "https://ypvnxx00-a.akamaihd.net/downloads/ringtones/files/mp3/f-business-49361.mp3",
+          "activity": "ActivityCard",
+          "view": "tvBusiness"
+        }
+      ]
+    },
+    "sample2": {
+      "pulse": false,
+      "journey": [
+        {
+          "text": "Click here to Select Hindi Language",
+          "audioUrl": "https://d6cp9b00-a.akamaihd.net/downloads/ringtones/files/mp3/f-hindi-49358.mp3",
+          "activity": "MainActivity",
+          "view": "tvHindi"
+        },
+        {
+          "text": "Click here to accept Terms and Conditions",
+          "audioUrl": "https://ypvnxx00-a.akamaihd.net/downloads/ringtones/files/mp3/f-tc-49360.mp3",
+          "activity": "ActivityTC",
+          "view": "tvTermsConditions"
+        },
+        {
+          "text": "Click here to select Banking Skills",
+          "audioUrl": "https://ypvnxx00-a.akamaihd.net/downloads/ringtones/files/mp3/f-banking-49362.mp3",
+          "activity": "ActivityCard",
+          "view": "tvBanking"
+        }
+      ]
+    }
+  },
+  "hi": {
+    "sample": {
+      "pulse": true,
+      "journey": [
+        {
+          "text": "अंग्रेजी भाषा का चयन करने के लिए यहां क्लिक करें",
+          "audioUrl": "https://nf1f8200-a.akamaihd.net/downloads/ringtones/files/mp3/h-english-49375.mp3",
+          "activity": "MainActivity",
+          "view": "tvEnglish"
+        },
+        {
+          "text": "आगे बढ़ने के लिए यहां क्लिक करें",
+          "audioUrl": "https://nf1f8200-a.akamaihd.net/downloads/ringtones/files/mp3/h-proceed-49377.mp3",
+          "activity": "MainActivity",
+          "view": "tvNext"
+        },
+        {
+          "text": "नियम और शर्तें स्वीकार करने के लिए यहां क्लिक करें",
+          "audioUrl": "https://nf1f8200-a.akamaihd.net/downloads/ringtones/files/mp3/h-tc-49376.mp3",
+          "activity": "ActivityTC",
+          "view": "tvTermsConditions"
+        },
+        {
+          "text": "आगे बढ़ने के लिए यहां क्लिक करे",
+          "audioUrl": "https://nf1f8200-a.akamaihd.net/downloads/ringtones/files/mp3/h-proceed-49377.mp3",
+          "activity": "ActivityTC",
+          "view": "tvProceed"
+        },
+        {
+          "text": "व्यवसाय संबंधित जानकारी जानने के लिए यहां क्लिक करें",
+          "audioUrl": "https://nf1f8200-a.akamaihd.net/downloads/ringtones/files/mp3/h-business-49379.mp3",
+          "activity": "ActivityCard",
+          "view": "tvBusiness"
+        }
+      ]
+    },
+    "sample2": {
+      "pulse": false,
+      "journey": [
+        {
+          "text": "हिंदी भाषा का चयन करने के लिए यहाँ क्लिक करें",
+          "audioUrl": "https://nf1f8200-a.akamaihd.net/downloads/ringtones/files/mp3/h-hindi-49378.mp3",
+          "activity": "MainActivity",
+          "view": "tvHindi"
+        },
+        {
+          "text": "ियम और शर्तें स्वीकार करने के लिए यहां क्लिक करें",
+          "audioUrl": "https://nf1f8200-a.akamaihd.net/downloads/ringtones/files/mp3/h-tc-49376.mp3",
+          "activity": "ActivityTC",
+          "view": "tvTermsConditions"
+        },
+        {
+          "text": "बैंकिंग संबंधित जानकारी जानने के लिए यहां क्लिक करें",
+          "audioUrl": "https://ypvnxx00-a.akamaihd.net/downloads/ringtones/files/mp3/h-banking-49380.mp3",
+          "activity": "ActivityCard",
+          "view": "tvBanking"
+        }
+      ]
+    }
+  }
+}
